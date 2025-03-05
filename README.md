@@ -1,5 +1,5 @@
 # disclaimer
-#### i do not support privacy, please buy this game on steam if you can instead of download geometry dash for free
+#### i do not support privacy, please buy this game on steam if you can instead of downloading geometry dash for free
 ### language support (kit only)
 you can select language in the folder
 - English (English.bat)
